@@ -25,7 +25,7 @@
  </p>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/de7qyzgg8/image/upload/v1687992415/Icons/flask_anvza4.png" alt="flask" width="40" height="52"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="40" height="52"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="python" width="45" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="python" width="35" height="40"/> </a>
@@ -33,22 +33,22 @@
 <h3 align="left">Databases:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/mysqlworkbench.svg" alt="mysql" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="mysql" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/elasticsearch.svg" alt="mysql" width="55" height="45"/> 
-<img src="https://res.cloudinary.com/de7qyzgg8/image/upload/v1687992416/Icons/snowflake_vllzdi.png" alt="snowflake" width="55" height="52"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgresql" width="55" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/elasticsearch.svg" alt="elasticsearch" width="55" height="45"/> 
+<img src="https://styles.redditmedia.com/t5_318fi/styles/communityIcon_0kgtnqe3shi61.png" alt="snowflake" width="55" height="52"/>
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="55" height="52"/>
  </p>
 <h3 align="left">DevOps:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="mysql" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg" alt="mysql" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/heroku.svg" alt="mysql" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg" alt="mysql" width="45" height="50"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="mysql" width="45" height="50"/>
-<img src="https://res.cloudinary.com/de7qyzgg8/image/upload/v1687992415/Icons/bash_zc7brd.png" alt="mysql" width="45" height="50"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="aws" width="55" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/gcp.svg" alt="gcp" width="55" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/heroku.svg" alt="heroku" width="55" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="45" height="50"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker" width="45" height="50"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="45" height="50"/>
  </p>
 <h3 align="left">Version Control:</h3>
 <p align="left">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="mysql" width="45" height="55"/>
-<img src="https://res.cloudinary.com/de7qyzgg8/image/upload/v1687992415/Icons/github_q8kqli.png" alt="mysql" width="50" height="50"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="45" height="55"/>
+<img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github" width="50" height="50"/>
  </p>
